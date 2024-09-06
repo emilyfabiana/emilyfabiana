@@ -1,8 +1,8 @@
 ## Olá eu sou a Emily Fabiana, Desenvolvedora Front-End!
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/emilyfabiana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyfabiana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfabiana&layout=compact&langs_count=16&theme=dracula"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
